@@ -1,2 +1,2 @@
 rootProject.name='AndroidComponentStudy'
-include ':app'
+include ':app',"AndroidComponent_Base:base"

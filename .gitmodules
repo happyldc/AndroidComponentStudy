@@ -1,0 +1,3 @@
+[submodule "AndroidComponent_Base"]
+	path = AndroidComponent_Base
+	url = https://github.com/happyldc/AndroidComponent_Base.git
